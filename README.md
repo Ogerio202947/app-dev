@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+**<H1> MY FAVORITE ANIME SERIES </H1>**
+> 1. ONE PICE
+> 2. BLEACH
+> 3. BLACK CLOVER
